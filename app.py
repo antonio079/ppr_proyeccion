@@ -7,7 +7,6 @@ st.title('PROYECCIÓN DEL VALOR DEL DINERO EN EL TIEMPO :sunglasses:')
 
 st.header('IMAGINA SER 65 AÑOS')
 st.write('Estas simulaciones son estimaciones en base a datos históricos:blue_book:') 
-car_data = pd.read_csv('vehicles_us_clean.csv') # leer los datos
 
 st.divider()
 
